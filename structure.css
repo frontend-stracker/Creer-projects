@@ -1,0 +1,39 @@
+div{
+    border: 2px solid lightgrey;
+    width: 18vw;
+    height: 450px;
+    border-radius: 5px;
+    display: inline-block;
+    
+    
+}
+img{
+    width: 280;
+    height: 200px;
+    margin: 0 25;
+    border: 2px solid lightgray;
+    border-radius: 5px;
+    
+
+    
+}
+.key{
+    border:1px solid lightgrey;
+    display: inline;
+    border-radius: 5px;
+    color: #aaa9a8 ;
+
+}
+p{
+    color: #aaa9a8;
+}
+h3{
+    font-size: 25px;
+}
+button{
+    border-radius: 10px;
+    border: 2px solid lightskyblue;
+    background-color: lightskyblue;
+    text-shadow:5cap lightskyblue;
+
+}
